@@ -1,0 +1,105 @@
+2023-08-17 00:38:14,129 - Test1 -INFO - chromedriver setup is complete
+2023-08-17 00:38:15,396 - Test1 -INFO - Logged into XYZ Bank
+2023-08-17 00:38:16,974 - Test1 -INFO - logged in to bank manager account 
+2023-08-17 00:38:18,136 - Test1 -INFO - filled and submitted the fields of costumer account 
+2023-08-17 00:38:18,153 - Test1 -INFO - 
+2023-08-17 00:38:19,321 - Test1 -INFO - opened the customer account for transactions 
+2023-08-17 00:38:20,159 - Test1 -INFO - Costumer logged in to its account 
+2023-08-17 00:38:21,310 - Test1 -INFO - Costumer deposited its money
+2023-08-17 00:38:22,004 - Test1 -INFO - Costumer made wiyhdrawal
+2023-08-17 00:38:22,607 - Test1 -INFO - Transaction History is deleted
+2023-08-17 00:38:22,652 - Test1 -INFO - Costumer logged out from its account
+2023-08-17 00:38:23,671 - Test1 -INFO - Logged in to Bank Manager deleted the costumer account
+2023-08-17 00:38:24,253 - Test1 -INFO - Quitting the driver
+2023-08-17 00:58:05,903 - Test1 -INFO - chromedriver setup is complete
+2023-08-17 00:58:07,644 - Test1 -INFO - Logged into XYZ Bank
+2023-08-17 00:58:09,621 - Test1 -INFO - logged in to bank manager account 
+2023-08-17 00:58:10,843 - Test1 -INFO - filled and submitted the fields of costumer account 
+2023-08-17 00:58:11,230 - Test1 -INFO - Screenshot captured: C:\Users\4850\Desktop\screenshots/AfterTestMethod.png
+2023-08-17 00:58:12,085 - Test1 -INFO - opened the customer account for transactions 
+2023-08-17 00:58:12,359 - Test1 -INFO - Screenshot captured: C:\Users\4850\Desktop\screenshots/AfterTestMethod.png
+2023-08-17 00:58:13,260 - Test1 -INFO - Costumer logged in to its account 
+2023-08-17 00:58:13,534 - Test1 -INFO - Screenshot captured: C:\Users\4850\Desktop\screenshots/AfterTestMethod.png
+2023-08-17 00:58:14,421 - Test1 -INFO - Costumer deposited its money
+2023-08-17 00:58:15,159 - Test1 -INFO - Costumer made wiyhdrawal
+2023-08-17 00:58:15,427 - Test1 -INFO - Screenshot captured: C:\Users\4850\Desktop\screenshots/AfterTestMethod.png
+2023-08-17 00:58:16,004 - Test1 -INFO - Transaction History is deleted
+2023-08-17 00:58:16,051 - Test1 -INFO - Costumer logged out from its account
+2023-08-17 00:58:16,852 - Test1 -INFO - Logged in to Bank Manager deleted the costumer account
+2023-08-17 00:58:17,091 - Test1 -INFO - Screenshot captured: C:\Users\4850\Desktop\screenshots/AfterTestMethod.png
+2023-08-17 00:58:17,289 - Test1 -INFO - Screenshot captured: C:\Users\4850\Desktop\screenshots/TestCompletion.png
+2023-08-17 00:58:18,646 - Test1 -INFO - Quitting the driver
+2023-08-17 01:02:36,820 - Test1 -INFO - chromedriver setup is complete
+2023-08-17 01:02:38,683 - Test1 -INFO - Logged into XYZ Bank
+2023-08-17 01:02:40,460 - Test1 -INFO - logged in to bank manager account 
+2023-08-17 01:02:41,567 - Test1 -INFO - filled and submitted the fields of costumer account 
+2023-08-17 01:02:42,885 - Test1 -INFO - opened the customer account for transactions 
+2023-08-17 01:02:43,769 - Test1 -INFO - Costumer logged in to its account 
+2023-08-17 01:02:45,304 - Test1 -INFO - Costumer deposited its money
+2023-08-17 01:02:46,089 - Test1 -INFO - Costumer made wiyhdrawal
+2023-08-17 01:02:46,679 - Test1 -INFO - Transaction History is deleted
+2023-08-17 01:02:46,720 - Test1 -INFO - Costumer logged out from its account
+2023-08-17 01:02:47,905 - Test1 -INFO - Logged in to Bank Manager deleted the costumer account
+2023-08-17 01:02:48,346 - Test1 -INFO - Screenshot captured: C:\Users\4850\Desktop\screenshots/TestCompletion.png
+2023-08-17 01:02:48,911 - Test1 -INFO - Quitting the driver
+2023-08-17 01:20:06,496 - Test1 -INFO - chromedriver setup is complete
+2023-08-17 01:20:07,647 - Test1 -INFO - Logged into XYZ Bank
+2023-08-17 01:20:09,052 - Test1 -INFO - logged in to bank manager account 
+2023-08-17 01:20:10,054 - Test1 -INFO - filled and submitted the fields of costumer account 
+2023-08-17 01:20:11,155 - Test1 -INFO - opened the customer account for transactions 
+2023-08-17 01:20:12,075 - Test1 -INFO - Costumer logged in to its account 
+2023-08-17 01:20:13,146 - Test1 -INFO - Costumer deposited its money
+2023-08-17 01:20:13,802 - Test1 -INFO - Costumer made wiyhdrawal
+2023-08-17 01:20:14,420 - Test1 -INFO - Transaction History is deleted
+2023-08-17 01:20:14,461 - Test1 -INFO - Costumer logged out from its account
+2023-08-17 01:20:24,756 - Test1 -INFO - Screenshot captured: C:\Users\4850\Desktop\screenshots/Test5Failure.png
+2023-08-17 01:20:24,758 - Test1 -ERROR - Test5 failed: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class="btn btn-primary btn-lg" and contains(text(),'Bank')]"}
+  (Session info: chrome=115.0.5790.171)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b10d1b94c16e35741a6dca8e2d3576c6, findElement {using=xpath, value=//button[@class="btn btn-primary btn-lg" and contains(text(),'Bank')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.171, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\4850\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:63795}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63795/devtoo..., se:cdpVersion: 115.0.5790.171, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b10d1b94c16e35741a6dca8e2d3576c6
+2023-08-17 01:20:25,017 - Test1 -INFO - Screenshot captured: C:\Users\4850\Desktop\screenshots/TestCompletion.png
+2023-08-17 01:20:25,661 - Test1 -INFO - Quitting the driver
+2023-08-17 01:25:58,145 - Test1 -INFO - chromedriver setup is complete
+2023-08-17 01:26:00,216 - Test1 -INFO - Logged into XYZ Bank
+2023-08-17 01:26:02,829 - Test1 -INFO - logged in to bank manager account 
+2023-08-17 01:26:04,448 - Test1 -INFO - filled and submitted the fields of costumer account 
+2023-08-17 01:26:05,468 - Test1 -INFO - opened the customer account for transactions 
+2023-08-17 01:26:06,393 - Test1 -INFO - Costumer logged in to its account 
+2023-08-17 01:26:07,801 - Test1 -INFO - Costumer deposited its money
+2023-08-17 01:26:08,523 - Test1 -INFO - Costumer made wiyhdrawal
+2023-08-17 01:26:09,123 - Test1 -INFO - Transaction History is deleted
+2023-08-17 01:26:09,172 - Test1 -INFO - Costumer logged out from its account
+2023-08-17 01:26:10,149 - Test1 -INFO - Logged in to Bank Manager deleted the costumer account
+2023-08-17 01:26:10,549 - Test1 -INFO - Screenshot captured: C:\Users\4850\Desktop\screenshots/TestCompletion.png
+2023-08-17 01:26:11,955 - Test1 -INFO - Quitting the driver
+2023-08-17 02:29:11,446 - Test1 -INFO - chromedriver setup is complete
+2023-08-17 02:29:13,697 - Test1 -INFO - Logged into XYZ Bank
+2023-08-17 02:29:15,402 - Test1 -INFO - logged in to bank manager account 
+2023-08-17 02:29:16,580 - Test1 -INFO - filled and submitted the fields of costumer account 
+2023-08-17 02:29:17,627 - Test1 -INFO - opened the customer account for transactions 
+2023-08-17 02:29:18,695 - Test1 -INFO - Costumer logged in to its account 
+2023-08-17 02:29:19,782 - Test1 -INFO - Costumer deposited its money
+2023-08-17 02:29:20,562 - Test1 -INFO - Costumer made wiyhdrawal
+2023-08-17 02:29:21,209 - Test1 -INFO - Transaction History is deleted
+2023-08-17 02:29:21,251 - Test1 -INFO - Costumer logged out from its account
+2023-08-17 02:29:22,253 - Test1 -INFO - Logged in to Bank Manager deleted the costumer account
+2023-08-17 02:29:22,546 - Test1 -INFO - Screenshot captured: C:\Users\4850\Desktop\screenshots/TestCompletion.png
+2023-08-17 02:29:23,204 - Test1 -INFO - Quitting the driver
+2023-08-17 02:48:39,919 - Test1 -INFO - chromedriver setup is complete
+2023-08-17 02:48:41,561 - Test1 -INFO - Logged into XYZ Bank
+2023-08-17 02:48:43,531 - Test1 -INFO - logged in to bank manager account 
+2023-08-17 02:48:44,682 - Test1 -INFO - filled and submitted the fields of costumer account 
+2023-08-17 02:48:45,708 - Test1 -INFO - opened the customer account for transactions 
+2023-08-17 02:48:46,606 - Test1 -INFO - Costumer logged in to its account 
+2023-08-17 02:48:47,680 - Test1 -INFO - Costumer deposited its money
+2023-08-17 02:48:48,347 - Test1 -INFO - Costumer made wiyhdrawal
+2023-08-17 02:48:49,001 - Test1 -INFO - Transaction History is deleted
+2023-08-17 02:48:49,040 - Test1 -INFO - Costumer logged out from its account
+2023-08-17 02:48:50,074 - Test1 -INFO - Logged in to Bank Manager deleted the costumer account
+2023-08-17 02:48:50,455 - Test1 -INFO - Screenshot captured: screenshots/TestCompletion.png
+2023-08-17 02:48:51,064 - Test1 -INFO - Quitting the driver

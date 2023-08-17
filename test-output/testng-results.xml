@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-17T02:48:33 EDT" name="Default suite" finished-at="2023-08-17T02:48:51 EDT" duration-ms="17909">
+    <groups>
+    </groups>
+    <test started-at="2023-08-17T02:48:33 EDT" name="Default test" finished-at="2023-08-17T02:48:51 EDT" duration-ms="17909">
+      <class name="testNG_sample.Test1">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testNG_sample.Test1@40a4337a]" started-at="2023-08-17T02:48:33 EDT" name="setup" finished-at="2023-08-17T02:48:41 EDT" duration-ms="8543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test()[pri:0, instance:testNG_sample.Test1@40a4337a]" started-at="2023-08-17T02:48:41 EDT" name="Test" finished-at="2023-08-17T02:48:44 EDT" duration-ms="2902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method signature="Test2()[pri:0, instance:testNG_sample.Test1@40a4337a]" started-at="2023-08-17T02:48:44 EDT" name="Test2" finished-at="2023-08-17T02:48:45 EDT" duration-ms="977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method signature="Test3()[pri:0, instance:testNG_sample.Test1@40a4337a]" started-at="2023-08-17T02:48:45 EDT" name="Test3" finished-at="2023-08-17T02:48:46 EDT" duration-ms="888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method signature="Test4()[pri:0, instance:testNG_sample.Test1@40a4337a]" started-at="2023-08-17T02:48:46 EDT" name="Test4" finished-at="2023-08-17T02:48:48 EDT" duration-ms="1734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+        <test-method signature="Test5()[pri:0, instance:testNG_sample.Test1@40a4337a]" started-at="2023-08-17T02:48:48 EDT" name="Test5" finished-at="2023-08-17T02:48:50 EDT" duration-ms="1722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test5 -->
+        <test-method is-config="true" signature="ending()[pri:0, instance:testNG_sample.Test1@40a4337a]" started-at="2023-08-17T02:48:50 EDT" name="ending" finished-at="2023-08-17T02:48:51 EDT" duration-ms="978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ending -->
+      </class> <!-- testNG_sample.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
